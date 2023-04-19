@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\pry18042023\bin\Debug\pry18042023.exe.config
+C:\Users\Alumno\source\repos\pry18042023\bin\Debug\pry18042023.exe
+C:\Users\Alumno\source\repos\pry18042023\bin\Debug\pry18042023.pdb
+C:\Users\Alumno\source\repos\pry18042023\obj\Debug\pry18042023.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\pry18042023\obj\Debug\pry18042023.Form1.resources
+C:\Users\Alumno\source\repos\pry18042023\obj\Debug\pry18042023.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pry18042023\obj\Debug\pry18042023.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pry18042023\obj\Debug\pry18042023.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pry18042023\obj\Debug\pry18042023.exe
+C:\Users\Alumno\source\repos\pry18042023\obj\Debug\pry18042023.pdb

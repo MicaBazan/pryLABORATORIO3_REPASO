@@ -1,0 +1,11 @@
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\bin\Debug\pryBazan_LabIII_10_04.exe.config
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\bin\Debug\pryBazan_LabIII_10_04.exe
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\bin\Debug\pryBazan_LabIII_10_04.pdb
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\obj\Debug\pryBazan_LabIII_10_04.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\obj\Debug\pryBazan_LabIII_10_04.frmEspecialidad.resources
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\obj\Debug\pryBazan_LabIII_10_04.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\obj\Debug\pryBazan_LabIII_10_04.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\obj\Debug\pryBazan_LabIII_10_04.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\obj\Debug\pryBazan_LabIII_10_04.exe
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\obj\Debug\pryBazan_LabIII_10_04.pdb
+C:\Users\Alumno\Source\Repos\pryLaboratorio_10_04\pryBazan_LabIII_10_04\obj\Debug\pryBazan_LabIII_10_04.frm.resources
